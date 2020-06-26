@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.alert-dark{
+    text-align: center;
+    color: green;
+}
+
+.calborder{
+    margin: auto;
+    background: grey;
+    width: 300px;
+    border-radius: 5px;
+}
+
+.display input{
+    width: 94%;
+    margin: 7px;
+    height: 25px;
+    text-align: right;
+    font-size: 25px;
+    font-family:Times New Roman;
+}
+
+ul{
+    padding-left: 8px;
+    list-style-type: none;
+    overflow:auto;
+}
+li{
+    float: left;
+}
+
+.calbtn button{
+    width: 71px;
+    background-color:gray;
+    height: 55px;
+    font-size: 30px;
+    color: azure;
+}
